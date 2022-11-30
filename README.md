@@ -22,7 +22,7 @@ To draw the map using Gmapping
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch
 ```
 
-To draw the map using Gmapping 
+To feed the map to the Bot
 ```sh
 $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=/home/talam/map.yaml
 ```
