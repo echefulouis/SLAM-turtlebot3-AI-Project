@@ -22,6 +22,5 @@ To draw the map using Gmapping
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch
 ```
 ## Uploaded Videos on Youtube 
-[![Gmapping VIdeo]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://youtu.be/pjN35iHIDFE)
+https://youtu.be/pjN35iHIDFEFE
+https://youtu.be/slO3gvT3sds
