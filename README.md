@@ -21,6 +21,12 @@ To draw the map using Gmapping
 ```sh
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch
 ```
+
+To draw the map using Gmapping 
+```sh
+$ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=/home/talam/map.yaml
+```
+
 ## Uploaded Videos on Youtube 
 https://youtu.be/pjN35iHIDFEFE
 
